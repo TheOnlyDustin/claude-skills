@@ -14,7 +14,7 @@ More skills will be added over time. Watch or star the repo to see new ones.
 
 | Skill | What it does | Needs |
 |---|---|---|
-| [pimp-my-plan](skills/pimp-my-plan/) | Reviews an implementation plan phase by phase and writes down exactly which skill, subagent, MCP tool, or CLI to use at each step, so the agent that builds it never has to guess. | Claude Code, AgentKit (`ak` CLI, `ak-plan`, `ak-cook`) |
+| [pimp-my-plan](skills/pimp-my-plan/) | Reviews an implementation plan phase by phase and writes down exactly which skill, subagent, MCP tool, or CLI to use at each step, so the agent that builds it never has to guess. | Claude Code, [AgentKit](https://agentkit.best) (`ak` CLI, `ak-plan`, `ak-cook`) |
 | [zoom-gather-analytics](skills/zoom-gather-analytics/) | On a Zoom call where a client has granted Remote Control, drives the client's own browser to export their analytics (CRM, LinkedIn, Facebook, Instagram, TikTok, Google Business Profile, Search Console, GA4, newsletter) and uploads each file to your upload survey. | [Claude in Chrome](https://claude.com/chrome), Zoom web client, an upload survey of your own |
 
 Each skill's folder has its own README with the full details: purpose, how it works,

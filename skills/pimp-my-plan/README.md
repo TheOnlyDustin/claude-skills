@@ -5,7 +5,7 @@ every step.
 
 ## Why it exists
 
-An AgentKit `ak-plan` plan describes phases,
+An [AgentKit](https://agentkit.best) `ak-plan` plan describes phases,
 steps, and acceptance criteria. When `ak-cook` later builds it, the agent still has to pick
 tools on the fly from a catalog of a hundred or more skills, subagents, MCP tools, and
 CLIs. It guesses, picks two that compete, calls a tool that isn't installed, or does
@@ -58,7 +58,7 @@ written.
 ## Requirements
 
 - Claude Code
-- AgentKit Engineer Kit: the `ak` CLI and the `ak-plan` / `ak-cook` skills
+- [AgentKit](https://agentkit.best) Engineer Kit: the `ak` CLI and the `ak-plan` / `ak-cook` skills
 
 ## Usage
 
